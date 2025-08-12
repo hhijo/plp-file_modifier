@@ -1,0 +1,6 @@
+with open("input.txt", "w") as file:
+    file.write("This is the first line.\n")
+    file.write("Python is fun to learn.\n")
+    file.write("We are working with files.\n")
+    file.write("Reading and writing files is important.\n")
+    file.write("Let's count words and use uppercase.\n")
